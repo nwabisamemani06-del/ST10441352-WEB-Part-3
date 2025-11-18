@@ -94,7 +94,13 @@ SEOOptimizer Class: Implements SEO best practices
 
 Referencing 
 
-W3Schools (2025). W3Schools online web tutorials. [online] W3schools.com. Available at: https://www.w3schools.com/. 
+W3Schools (2025). W3Schools online web tutorials. [online] W3schools.com. Available at: https://www.w3schools.com/. [Accessed 18 Nov. 2025]
+
+Puma.com. (2025). Shoes & Sneakers for Men | Men’s Trainers | Puma South Africa. [online] Available at: https://za.puma.com/men/shoes [Accessed 18 Nov. 2025].
+
+‌Superbalist. (2025). Secondary Navigation. [online] Available at: https://superbalist.com/browse/men/shoes/sneakers [Accessed 18 Nov. 2025].
+
+‌“Buy Air Jordan Sneakers Online - Lemkus.com | Lemkus.” Lemkus.com, 2025, lemkus.com/collections/air-jordan?srsltid=AfmBOorTJk-fThNVN0NCTS23c5zU7SaLezvcxrZoA7VPKU_Tn98n3ARO.[ Accessed 18 Nov. 2025].
 
 ‌
 
