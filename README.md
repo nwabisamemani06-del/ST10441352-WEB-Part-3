@@ -100,7 +100,7 @@ Puma.com. (2025). Shoes & Sneakers for Men | Men’s Trainers | Puma South Afric
 
 ‌Superbalist. (2025). Secondary Navigation. [online] Available at: https://superbalist.com/browse/men/shoes/sneakers [Accessed 18 Nov. 2025].
 
-‌“Buy Air Jordan Sneakers Online - Lemkus.com | Lemkus.” Lemkus.com, 2025, lemkus.com/collections/air-jordan?srsltid=AfmBOorTJk-fThNVN0NCTS23c5zU7SaLezvcxrZoA7VPKU_Tn98n3ARO.[ Accessed 18 Nov. 2025].
+‌“Buy Air Jordan Sneakers Online - Lemkus.com | Lemkus.” Lemkus.com, 2025, lemkus.com/collections/air-jordan?srsltid=AfmBOorTJk-fThNVN0NCTS23c5zU7SaLezvcxrZoA7VPKU_Tn98n3ARO. [ Accessed 18 Nov. 2025].
 
 ‌
 
