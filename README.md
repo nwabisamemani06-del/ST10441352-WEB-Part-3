@@ -5,23 +5,17 @@ Part 1: Foundation Development (August 2025)
 Timeline: August 1-31, 2025
 
 Project Scope & Planning:
-The initial phase established the project foundation through comprehensive planning and structural development. Requirements analysis identified key features including About Us the company, customer enquiry systems, and company information presentation. Content strategy focused on creating authentic brand messaging that resonates with sneaker enthusiasts while maintaining professional business standards.
+First we had to plan it out how it will be document the the scop and planing. Requirements analysis identified key features including About Us the company, customer enquiry systems, and company information presentation. Content strategy focused on creating authentic brand messaging that resonates with sneaker enthusites while maintaining professional business standards.
 
 Technical Architecture:
-Implemented semantic HTML5 structure ensuring accessibility and SEO optimization. Established clear information architecture with logical page hierarchy. Created reusable components and consistent naming conventions across all six pages. Focused on clean, well-documented code structure for future maintenance and scalability.
+Used semantic HTML5 structure ensuring accessibility and SEO optimization. Established clear information architecture with logical page hierarchy. Created reusable components and consistent naming conventions across all six pages. Focused on clean, well-documented code structure for future maintenance and scalability.
 
 Milestones:
-The initial phase focused on establishing the fundamental structure of the website. During the first week of August 2025, comprehensive project planning was conducted to define requirements and content strategy. By mid-August, the complete HTML skeleton was implemented using semantic markup principles. The third week involved integrating all textual content, product information, and form structures. The final week of August was dedicated to implementing the navigation system and ensuring proper internal linking between all pages, culminating in the completion of Part 1 with six fully structured HTML pages.
+In the this phase focused on establishing the fundamental structure of the website. During the first week of August 2025, comprehensive project planning was conducted to define requirements and content strategy. By mid-August, the complete HTML skeleton was implemented using semantic markup principles. The third week involved integrating all textual content, product information, and form structures. The final week of August was dedicated to implementing the navigation system and ensuring proper internal linking between all pages, culminating in the completion of Part 1 with six fully structured HTML pages.
 
 Deliverables:
 
-Six complete HTML pages (Home, About Us, Services, Enquiry, Contact, Map)
-Semantic HTML5 structure with proper document outline
-Accessible navigation system with consistent menu
-Basic form structures for enquiries and contact
-Image assets integration with alt text
-Content hierarchy and information architecture
-File organization system with proper naming conventions
+Six completed HTML pages (Home, About Us, Services, Enquiry, Contact, Map), Semantic HTML5 structure with proper document outline, Accessible navigation system with consistent menu, Basic form structures for enquiries and contact, Image assets integration with alt text and Content hierarchy and information architecture lastly File organization system with proper naming conventions
 
 Technical Specifications:
 HTML5 semantic elements (header, nav, main, section, footer)
